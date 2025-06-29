@@ -162,15 +162,3 @@ sniffio==1.3.1
 snowballstemmer==2.2.0
 soupsieve==2.7
 ```
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to explore and use Crawl4AI for your documentation scraping needs. Happy coding!
